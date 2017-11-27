@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
   tasks:
-    - name: test connection
-      ping:
-
+   - pause:
+       minutes: 5
+ 
