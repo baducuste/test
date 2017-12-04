@@ -12,10 +12,6 @@
    - pause:
        seconds: 5
    - pause:
-       seconds: 6
-   - pause:
-       seconds: 5
-   - pause:
        seconds: 4
    - pause:
        seconds: 3
