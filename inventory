@@ -1,3 +1,6 @@
-all:
-  hosts:
-    localhost
+localhost
+
+[targets]
+
+localhost              ansible_connection=local
+
