@@ -2,5 +2,27 @@
 - hosts: localhost
   tasks:
    - pause:
-       minutes: 5
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
+   - pause:
+       seconds: 5
  
