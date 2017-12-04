@@ -10,7 +10,7 @@
    - pause:
        seconds: 4
    - pause:
-       seconds: 300
+       seconds: 5
    - pause:
        seconds: 4
    - pause:
